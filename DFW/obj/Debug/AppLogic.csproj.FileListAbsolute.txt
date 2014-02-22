@@ -1,0 +1,10 @@
+c:\users\intern1\documents\visual studio 2012\Projects\DFW\DFW\bin\Debug\DFW.dll
+c:\users\intern1\documents\visual studio 2012\Projects\DFW\DFW\bin\Debug\DFW.pdb
+c:\users\intern1\documents\visual studio 2012\Projects\DFW\DFW\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+c:\users\intern1\documents\visual studio 2012\Projects\DFW\DFW\obj\Debug\DFW.dll
+c:\users\intern1\documents\visual studio 2012\Projects\DFW\DFW\obj\Debug\DFW.pdb
+C:\Users\julius\Documents\Visual Studio 2012\Projects\DFW\DFW\bin\Debug\DFW.dll
+C:\Users\julius\Documents\Visual Studio 2012\Projects\DFW\DFW\bin\Debug\DFW.pdb
+C:\Users\julius\Documents\Visual Studio 2012\Projects\DFW\DFW\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\julius\Documents\Visual Studio 2012\Projects\DFW\DFW\obj\Debug\DFW.dll
+C:\Users\julius\Documents\Visual Studio 2012\Projects\DFW\DFW\obj\Debug\DFW.pdb
